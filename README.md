@@ -1,36 +1,36 @@
-# 👋 Hi, I'm CK Paite
+# Hi, I'm CK Paite
 
-A **Computer Science Graduate from Delhi University** with a deep passion for **Artificial Intelligence**, **Cybersecurity**, and **Open Source Development**. I specialize in building intelligent systems, automating workflows, and developing tools for data-driven investigations.
+Computer Science graduate from Delhi University, building secure web products, automation tooling, and investigation-focused platforms.
 
----
+- **Location:** Delhi, India
+- **Website:** [kcnet.in](https://www.kcnet.in)
+- **GitHub:** [@caseypaite](https://github.com/caseypaite)
+- **X/Twitter:** [@caseypaite](https://x.com/caseypaite)
+- **Status:** Open to collaboration and technical roles
 
-### 🚀 Core Focus & Interests
-- 🤖 **Machine Learning & AI:** Currently building an automatic document classifier using **TensorFlow**. Exploring ML/AI paradigms using **Python** and **R**.
-- 🛡️ **Cybersecurity & OSINT:** Active interest in visual, graph-based investigations (**flowsint**) and website security analysis (**web-check**).
-- ⚙️ **WhatsApp Automation:** Developing **WA-Lite-API**, a lightweight REST API for automating WhatsApp actions and managing channels.
-- 📊 **Enterprise Dashboards:** Implementing modern UI/UX using **Django** and **Soft UI**.
+## What I'm working on
 
-### 🛠️ Tech Stack
-- **Languages:** Python, R, TypeScript, JavaScript, SQL.
-- **Frameworks/Libraries:** TensorFlow, Django, Node.js, React, whatsapp-web.js.
-- **Platforms:** Linux/Unix (specifically Ubuntu aarch64), Cloud environments.
-- **Tools:** Git, OSINT frameworks, Docker.
+- **Secure analytics platforms** for governed data access and audited workflows
+- **WhatsApp tooling** for automation, messaging, and community operations
+- **Product-focused web apps** with practical UI, identity, and workflow design
 
-### 📂 Featured Projects
-- **[flowsint](https://github.com/reconurge/flowsint)**: A modern platform for visual, flexible, and extensible graph-based investigations.
-- **[WA-Lite-API](https://github.com/caseypaite/WA-LITE-API)**: A REST API for WhatsApp automation, including channel management and cybersecurity news dissemination.
-- **[web-check](https://github.com/caseypaite/web-check)**: An advanced OSINT/analysis tool for auditing website details.
-- **[smartapi-r](https://github.com/caseypaite/smartapi-r)**: R-based API client optimized for Linux ARM architecture.
+## Featured repositories
 
-### 🌱 Currently Learning
-- Advanced Deep Learning techniques for text and image classification.
-- Cross-platform optimization for AI models.
+- **[iReconX](https://github.com/caseypaite/iReconX)** - Secure analytics studio with role-based access, OTP login, encrypted data sources, and audited workflows
+- **[WhatsApp-Web-Tool](https://github.com/caseypaite/WhatsApp-Web-Tool)** - Full-stack WhatsApp community platform with RBAC, OTP verification, automated messaging, polling, and external integrations
+- **[WA-Lite-API](https://github.com/caseypaite/WA-Lite-API)** - Lightweight API-focused WhatsApp automation project
+- **[dynamic-personal-portfolio](https://github.com/caseypaite/dynamic-personal-portfolio)** - Personal portfolio app built from a vCard-style concept
 
----
+## Tech stack
 
-### 📫 Connect with Me
-- 📧 Reach out via the email addresses listed in my [GitHub profile](https://github.com/caseypaite).
-- 💬 Open to participating in technical discussions and architectural brainstorms.
+**Languages:** JavaScript, TypeScript, Python, R, SQL  
+**Frameworks and tools:** Node.js, React, Django, TensorFlow, Docker, Git  
+**Environment:** Linux/Ubuntu
 
----
-*“Building tools that bridge the gap between complex data and actionable insights.”*
+## Connect
+
+- [GitHub Profile](https://github.com/caseypaite)
+- [Website](https://www.kcnet.in)
+- [X/Twitter](https://x.com/caseypaite)
+
+> Building tools that turn complex systems and data into usable workflows.
